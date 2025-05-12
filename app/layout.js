@@ -12,35 +12,35 @@ export const runtime = "edge";
 
 export const metadata = {
 	title: {
-		default: "SOCMA Side Loader Forklifts | Engineered for Precision Material Handling",
-		template: "SOCMA Side Loader Forklifts"	
+		default: "SOCMA Empilhadeiras Laterais | Projetadas para Manuseio Preciso de Materiais",
+		template: "SOCMA Empilhadeiras Laterais"	
 	},
-	description: "SOCMA, a trusted side loader forklift manufacturer in China, specializes in side loading forklifts designed for stockholding facilities handling steel, tubes, PVC extrusions, and wooden boards. Our forklifts deliver efficiency and safety for industries worldwide.",
+	description: "SOCMA, um fabricante confiável de empilhadeiras laterais na China, se especializa em empilhadeiras laterais projetadas para instalações de armazenamento que manipulam aço, tubos, extrusões de PVC e painéis de madeira. Nossas empilhadeiras oferecem eficiência e segurança para indústrias em todo o mundo.",
 	openGraph: {
-		title: "SOCMA Side Loader Forklifts | Engineered for Precision Material Handling",		
-		description: "SOCMA, a trusted side loader forklift manufacturer in China, specializes in side loading forklifts designed for stockholding facilities handling steel, tubes, PVC extrusions, and wooden boards. Our forklifts deliver efficiency and safety for industries worldwide.",
+		title: "SOCMA Empilhadeiras Laterais | Projetadas para Manuseio Preciso de Materiais",		
+		description: "SOCMA, um fabricante confiável de empilhadeiras laterais na China, se especializa em empilhadeiras laterais projetadas para instalações de armazenamento que manipulam aço, tubos, extrusões de PVC e painéis de madeira. Nossas empilhadeiras oferecem eficiência e segurança para indústrias em todo o mundo.",
 		images: [
 			{
 				url: "/opengraph-image.png",
 				width: 1200,
 				height: 630,
-				alt: "SOCMA Side Loader Forklifts"
+				alt: "SOCMA Empilhadeiras Laterais"
 			}
 		],
-		locale: "en_US",
+		locale: "pt_PT",
 		type: "website"
 	},
 	twitter: {
 		card: "summary_large_image",
 		title: {
-			default: "SOCMA Side Loader Forklifts",
-			template: "SOCMA Side Loader Forklifts"
+			default: "SOCMA Empilhadeiras Laterais",
+			template: "SOCMA Empilhadeiras Laterais"
 		},
-		description: "SOCMA, a trusted side loader forklift manufacturer in China, specializes in side loading forklifts designed for stockholding facilities handling steel, tubes, PVC extrusions, and wooden boards. Our forklifts deliver efficiency and safety for industries worldwide.",
+		description: "SOCMA, um fabricante confiável de empilhadeiras laterais na China, se especializa em empilhadeiras laterais projetadas para instalações de armazenamento que manipulam aço, tubos, extrusões de PVC e painéis de madeira. Nossas empilhadeiras oferecem eficiência e segurança para indústrias em todo o mundo.",
 		images: [
 			{
 				url: "/opengraph-image.png",
-				alt: "SOCMA Side Loader Forklifts"
+				alt: "SOCMA Empilhadeiras Laterais"
 			}
 		]
 	}
