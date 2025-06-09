@@ -8,7 +8,7 @@ import { notFound } from "next/navigation";
 const header = {
 	title: "All Products",
 	focus: "Products",
-	description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	description: ""
 };
 
 // Metadata
